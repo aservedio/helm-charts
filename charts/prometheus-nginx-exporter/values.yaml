@@ -2,7 +2,7 @@
 additionalLabels: {}
 
 # Additional annotations to add to all resources
-additionalAnnotations: {}
+# additionalAnnotations: {}
 
 # Number of instance
 replicaCount: 1
